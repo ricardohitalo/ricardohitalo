@@ -9,12 +9,16 @@
   ![](https://komarev.com/ghpvc/?username=ricardohitalo&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardohitalo&count_private=true&show_icons=true&theme=dark" />
+</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohitalo&count_private=true&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"
     />
   </a>
 </p>
+<br>
 
 ### Development stacks
 
