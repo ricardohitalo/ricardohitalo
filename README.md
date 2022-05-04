@@ -7,18 +7,23 @@
   📬 ricardohitalo1@gmail.com <br>
   
   ![](https://komarev.com/ghpvc/?username=ricardohitalo&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es)
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ricardohitalo&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohitalo&count_private=true&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"
-  />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardohitalo&count_private=true&show_icons=true&theme=dark" />
+  </a>
+<!--   <a href="https://github.com/ricardohitalo/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoruk&count_private=true&show_icons=true&theme=dark" />
+  </a> -->
 
-<br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardohitalo&count_private=true&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas"
+    />
+  </a>
+</div>
+
+<br>
 
 ### Development stacks
 
