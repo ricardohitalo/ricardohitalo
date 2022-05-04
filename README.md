@@ -1,6 +1,7 @@
 ### Hello!
 ⭐ About me: <br>
-  👨‍🎓 I'm Information System student in Facimp <br>
+  👨‍🎓 I'm Analysis and Systems Development
+ student in Facimp <br>
   💻 Fullstack Developer <br>
   🏡 Brazilian, MA 🌎 <br>
   📬 ricardohitalo1@gmail.com <br>
