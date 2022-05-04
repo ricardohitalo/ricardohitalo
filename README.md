@@ -5,6 +5,8 @@
   💻 Fullstack Developer <br>
   🏡 Brazilian, MA 🌎 <br>
   📬 ricardohitalo1@gmail.com <br>
+  
+<!--   ![](https://komarev.com/ghpvc/?username=ricardohitalo&color=blue&style=plastic&label=Visualiza%C3%A7%C3%B5es) -->
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
